@@ -1,4 +1,4 @@
-# Hereos
+# Hereos (pronounced as "Heroes")
 ## Project details:
 - Game being developed on the EOS smart contract platform.
 - No ICO (in fact, the project doesn't even use a token and nobody can invest in founder items before the product is completed).
