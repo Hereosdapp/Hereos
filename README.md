@@ -6,8 +6,8 @@
 - One time auction of very limited founder items which will generate a lifetime passive income for a few lucky winners.
 
 ## Gameplay details:
+- 24/7 persistent strategic battles over scarce resources (with billions of possible strategies).
 - Players are fully in control of item supply and market prices.
-- 24/7 persistent strategic battles over scarce resource (with billions of possible strategies).
 - Play solo or with your alliance.
 - Real-money marketplace.
 - Expand your collection by cloning one of billions of possible heroes, to expand your strategic possiblities or to sell them on the open market.
