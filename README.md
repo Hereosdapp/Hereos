@@ -3,7 +3,7 @@
 - Game being developed on the EOSIO smart contract platform.
 - No ICO (in fact, the project doesn't even use a token and nobody can invest in founder items before the product is completed).
 - Completely decentralized (no central website required, no data stored outside the blockchain).
-- One time auction of very limited founder items which will generate a lifetime passive income for a few lucky winners.
+- One time auction of **very limited** founder items which will generate a lifetime passive income for a few lucky winners.
 
 ## Gameplay details:
 - Strategic battles (with billions of possible strategies) over scarce resources.
@@ -15,7 +15,7 @@
 - Real-money marketplace.
 
 ## Launch details:
-- Presale auction of __very limited__ founder items before launch (duration TBD).
+- Presale auction of **very limited** founder items before launch (duration TBD).
 - Launch estimated late July 2018.
 
 ## Pre-launch FAQ:
