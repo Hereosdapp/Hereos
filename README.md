@@ -7,7 +7,7 @@
 
 ## Gameplay details:
 - 24/7 persistent strategic battles over scarce resources (with billions of possible strategies).
-- Ingenious cloning system (where your skill level also directly influences the frequency and quality of cloning new heroes) 
+- Ingenious cloning system (where player skill also directly influences the frequency and quality of cloning new heroes) 
 - Players are fully in control of item supply and market prices.
 - Play solo or with your alliance.
 - Real-money marketplace.
