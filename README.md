@@ -6,13 +6,12 @@
 - One time auction of very limited founder items which will generate a lifetime passive income for a few lucky winners.
 
 ## Gameplay details:
+- Use your collection to engage in strategic combat, to expand your collection and/or to exchange on the open market.
 - 24/7 persistent strategic battles over scarce resources (with billions of possible strategies).
-- Ingenious cloning system (where player skill also directly influences the frequency and quality of cloning new heroes) 
+- Ingenious cloning system (where player skill also directly influences the limitation and quality of cloning new heroes) 
 - Players are fully in control of item supply and market prices.
 - Play solo or with your alliance.
 - Real-money marketplace.
-- Expand your collection by cloning one of billions of possible heroes, to expand your strategic possiblities or to sell them on the open market.
-- Successfull attacks increase the amount of scarce resources you (and your alliance) own, which in part increases the quality of newly created clones for you and your alliance.
 
 ## Launch details:
 - Presale auction of founder items before launch (duration TBD).
