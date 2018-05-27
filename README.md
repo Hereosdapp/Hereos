@@ -7,8 +7,9 @@
 
 ## Gameplay details:
 - Use your collection to engage in strategic combat, to expand your collection and/or to exchange on the open market.
+- Player skill directly influences account limitations (2 players with identical collections but different skill levels will have different limitations).
 - 24/7 persistent strategic battles over scarce resources (with billions of possible strategies).
-- Ingenious cloning system (where player skill also directly influences the limitation and quality of cloning new heroes) 
+- Ingenious cloning system
 - Players are fully in control of item supply and market prices.
 - Play solo or with your alliance.
 - Real-money marketplace.
