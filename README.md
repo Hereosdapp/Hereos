@@ -7,6 +7,7 @@
 
 ## Gameplay details:
 - 24/7 persistent strategic battles over scarce resources (with billions of possible strategies).
+- Ingenious cloning system (where your skill level also directly influences the frequency and quality of cloning new heroes) 
 - Players are fully in control of item supply and market prices.
 - Play solo or with your alliance.
 - Real-money marketplace.
@@ -19,10 +20,10 @@
 
 ## Pre-launch FAQ:
 ### Will the game be free to play?
-A free to play model is too exploitable. In Hereos, players are required to buy at least enough heroes to create an attack (currently 6), after that the game can be played for free forever if desired. Traders and/or breeders who don't want to engage in combat require at least one hero.
+A free to play model is too exploitable. In Hereos, players are required to buy at least enough heroes to create an attack (currently 6), after that the game can be played for free forever if desired. Traders and/or breeders who don't want to engage in combat require at least one hero. Players are required to "buy" RAM storage for their own inventory, but a player can sell all items and sell the RAM storage space to get the money refunded (which makes inventory storage effectively free).
 
 ### Will the game be pay to win?
-Buying heroes doesn't give you any combat advantage, it only expands the amount of strategic possibilities.
+Buying heroes doesn't give you any combat advantage, it only expands the amount of strategic possibilities. Better players will expand their collection faster and will likely make more money than worse players who bought a large part of their collection.
 
 ### What strategic elements are in the game?
 Players have to assemble a squad of 6 unique heroes. Each hero has billions of combinations between the class, AI system, primary attack and has to choose 5 specific abilities out of a list of over 50 offensive, defense and utility abilities.
