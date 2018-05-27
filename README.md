@@ -20,7 +20,7 @@
 
 ## Pre-launch FAQ:
 ### Will the game be free to play?
-A free to play model is too exploitable. In Hereos, players are required to buy at least 1 hero, after that the game can be played for free forever if desired. Players are required to "buy" RAM storage for their inventory, but a player can sell all items, unregister from the game and sell the unused RAM storage space to get the money refunded (which makes inventory storage effectively free or even profitable in case the RAM price has increased because of scarcity).
+A free to play model is too exploitable (players can make infinite accounts to get infinite resources). In Hereos, players are required to buy at least 1 hero, after that the game can be played for free forever if desired. Players are required to "buy" RAM storage for their inventory, but a player can sell all items, unregister from the game and sell the unused RAM storage space to get the money refunded (which makes inventory storage effectively free or even profitable in case the RAM price has increased because of scarcity).
 
 ### Will the game be pay to win?
 Buying heroes doesn't give you any combat advantage, it only expands the amount of strategic possibilities. Better players will expand their collection faster and will likely make more money than worse players who bought a large part of their collection.
