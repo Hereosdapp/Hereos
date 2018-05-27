@@ -8,7 +8,7 @@
 ## Gameplay details:
 - Strategic battles (with billions of possible strategies) over scarce resources.
 - Use your collection to engage in strategic combat, to expand your collection and/or to exchange on the open market.
-- Player skill directly influences account limitations (2 players with identical collections but different skill levels will have different limitations).
+- Player skill directly influences collection expansion speed (if 2 players have an identical collection, the better player can expand the collection faster).
 - Ingenious cloning system
 - Players are fully in control of item supply and market prices.
 - Play solo or with your alliance.
