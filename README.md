@@ -6,9 +6,9 @@
 - One time auction of very limited founder items which will generate a lifetime passive income for a few lucky winners.
 
 ## Gameplay details:
+- Strategic battles (with billions of possible strategies) over scarce resources.
 - Use your collection to engage in strategic combat, to expand your collection and/or to exchange on the open market.
 - Player skill directly influences account limitations (2 players with identical collections but different skill levels will have different limitations).
-- Strategic battles over scarce resources (with billions of possible strategies).
 - Ingenious cloning system
 - Players are fully in control of item supply and market prices.
 - Play solo or with your alliance.
