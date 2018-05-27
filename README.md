@@ -31,7 +31,7 @@ Each time a player wants to attack or defend, the players has to assemble a squa
 ### Where can I find detailed information about the gameplay?
 Until launch, the full gameplay information and source code won't be released to the public to prevent copycats (who aren't after innovation, but just want to make a quick buck) from copying the project with little to no change. But don't worry, the gameplay is quite awesome, unique and innovative :) 
 
-### Does Heroes use a custom token?
+### Does Hereos use a custom token?
 No, all real-money exchanges are done with the native EOS token.
 
 ### Why would we trust you?
