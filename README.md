@@ -15,7 +15,7 @@
 - Real-money marketplace.
 
 ## Launch details:
-- Presale auction of founder items before launch (duration TBD).
+- Presale auction of __very limited__ founder items before launch (duration TBD).
 - Launch estimated late July 2018.
 
 ## Pre-launch FAQ:
