@@ -28,6 +28,9 @@ Buying heroes doesn't give you any combat advantage, it only expands the amount 
 ### What strategic elements are in the game?
 Players have to assemble a squad of 6 unique heroes. Each hero has billions of combinations between the class, AI system, primary attack and has to choose 5 specific abilities out of a list of over 50 offensive, defense and utility abilities.
 
+### Where can I find detailed information about the gameplay?
+Until launch, the full gameplay information and source code won't be released to the public to prevent copycats (who aren't after innovation, but just want to make a quick buck) from copying the project with little to no change. But don't worry, the gameplay is quite awesome, unique and innovative :) 
+
 ### Does Heroes use a custom token?
 No, all real-money exchanges are done with the native EOS token.
 
