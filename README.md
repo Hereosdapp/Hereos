@@ -20,7 +20,7 @@
 
 ## Pre-launch FAQ:
 ### Will the game be free to play?
-A free to play model is too exploitable. In Hereos, players are required to buy at least enough heroes to engage in combat (currently 6), after that the game can be played for free forever if desired. Traders and/or breeders who don't want to engage in combat require at least one hero. Players are required to "buy" RAM storage for their own inventory, but a player can sell all items and sell the RAM storage space to get the money refunded (which makes inventory storage effectively free).
+A free to play model is too exploitable. In Hereos, players are required to buy at least enough heroes to engage in combat (currently 6), after that the game can be played for free forever if desired. Traders and/or breeders who don't want to engage in combat require at least one hero. Players are required to "buy" RAM storage for their own inventory, but a player can sell all items and sell the RAM storage space to get the money refunded (which makes inventory storage effectively free or even profitable in case the RAM price has increased).
 
 ### Will the game be pay to win?
 Buying heroes doesn't give you any combat advantage, it only expands the amount of strategic possibilities. Better players will expand their collection faster and will likely make more money than worse players who bought a large part of their collection.
