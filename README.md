@@ -25,8 +25,14 @@ A free to play model is too exploitable. In Hereos, players are required to buy 
 ### Will the game be pay to win?
 Buying heroes doesn't give you any combat advantage, it only expands the amount of strategic possibilities. Better players will expand their collection faster and will likely make more money than worse players who bought a large part of their collection.
 
+### How will you make money?
+Whenever a player buys a hero, 50% of the money goes to me and the other 50% will be split among the founders based on the prices they individually set as commission. When a player buys an item on the market, they pay a 1% fee. I can change both settings whenever I want after the game is live.
+
 ### What strategic elements are in the game?
 Each time a player wants to attack or defend, the player has to assemble a squad of 6 unique heroes. Each hero has billions of combinations between the class, AI system, primary attack and the special abilities (chosen out of a list of 50+ offensive, defense or utility abilities). If you create or join an alliance, you can also coordinate attacks and defends together.
+
+### What if certain game settings (like overpowered strategies) are problematic?
+All game settings, including all strategies, are still configurable after launch without having to update the source code. I will closely monitor everything after launch and change game settings where necessary. Whenever I plan to change game settings, it will be announced at least 24 hour in advance to give people some time to prepare if needed.
 
 ### Where can I find detailed information about the gameplay?
 Until launch, the full gameplay information and source code won't be released to the public to prevent copycats (who aren't after innovation, but just want to make a quick buck) from copying and releasing the project with little to no change. But don't worry, the gameplay is quite awesome, unique and innovative :) 
