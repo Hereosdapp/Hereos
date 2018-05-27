@@ -29,7 +29,10 @@ Buying heroes doesn't give you any combat advantage, it only expands the amount 
 Whenever a player buys a hero, 50% of the money goes to me and the other 50% will be split among the founders based on the prices they individually set as commission. When a player buys an item on the market, they pay a 1% fee. I can change both settings whenever I want after the game is live.
 
 ### What strategic elements are in the game?
-Each time a player wants to attack or defend, the player has to assemble a squad of 6 unique heroes. Each hero has billions of combinations between the class, AI system, primary attack and the special abilities (chosen out of a list of 50+ offensive, defense or utility abilities). If you create or join an alliance, you can also coordinate attacks and defends together.
+Each time a player wants to attack or defend, the player has to assemble a squad of 6 unique heroes. Each hero has billions of combinations between the class, targeting strategy, primary attack and the special abilities (50+ abilities total available divided in offensive, defense and utility categories). If you create or join an alliance, you can also coordinate attacks and defends together to improve or maintain your bonus. Bonusses are shared between alliances, so it's highly recommended to make friends.
+
+### What will you do about bots?
+It's impossible to block bots. The game is designed so that items can only come into existence after real money has been paid somewhere. After that, the players can use their virtual resources however they please. Due to the billions of possible strategies and an ever changing meta, it remains to be seen if a bot can perform as well as a skilled player.
 
 ### What if certain game settings (like overpowered strategies) are problematic?
 All game settings, including all strategies, are still configurable after launch without having to update the source code. I will closely monitor everything after launch and change game settings where necessary. Whenever I plan to change game settings, it will be announced at least 24 hour in advance to give people some time to prepare if needed.
