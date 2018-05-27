@@ -16,7 +16,7 @@
 
 ## Launch details:
 - Presale auction of **very limited** founder items before launch (duration TBD).
-- Launch estimated late July 2018.
+- Launch estimated July 2018.
 
 ## Pre-launch FAQ:
 ### Will the game be free to play?
