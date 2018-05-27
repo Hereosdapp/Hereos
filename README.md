@@ -26,7 +26,7 @@ A free to play model is too exploitable. In Hereos, players are required to buy 
 Buying heroes doesn't give you any combat advantage, it only expands the amount of strategic possibilities. Better players will expand their collection faster and will likely make more money than worse players who bought a large part of their collection.
 
 ### What strategic elements are in the game?
-Each time a player wants to attack or defend, the players has to assemble a squad of 6 unique heroes. Each hero has billions of combinations between the class, AI system, primary attack and the special abilities (chosen out of a list of 50+ offensive, defense or utility abilities). If you create or join an alliance, you can also coordinate attacks and defends together.
+Each time a player wants to attack or defend, the player has to assemble a squad of 6 unique heroes. Each hero has billions of combinations between the class, AI system, primary attack and the special abilities (chosen out of a list of 50+ offensive, defense or utility abilities). If you create or join an alliance, you can also coordinate attacks and defends together.
 
 ### Where can I find detailed information about the gameplay?
 Until launch, the full gameplay information and source code won't be released to the public to prevent copycats (who aren't after innovation, but just want to make a quick buck) from copying the project with little to no change. But don't worry, the gameplay is quite awesome, unique and innovative :) 
