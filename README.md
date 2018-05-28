@@ -28,7 +28,7 @@ A free to play model is too exploitable (players can make infinite accounts to g
 ### Will the game be pay to win?
 Buying heroes doesn't give you any combat advantage, it only expands the amount of strategic possibilities. Better players will expand their collection faster and will likely make more money than worse players who bought a large part of their collection.
 
-## What is your business model?
+### What is your business model?
 Whenever a player buys a hero, 50% of the money goes to me and the other 50&#37; commission will be split among the involved founders based on the prices they individually set (founders can withdraw commission once per 24 hours to prevent blockchain bloat). When a player buys an item on the market, they pay a 1% fee. I can change both settings whenever I want after the game is live. Whenever I plan to change game settings, it will be announced at least 24 hour in advance to give people some time to prepare if needed.
 
 ### What strategic elements are in the game?
