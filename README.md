@@ -20,7 +20,7 @@
 
 ## Pre-launch FAQ:
 ### Where can I find detailed information about the gameplay?
-Until launch, the full gameplay information and source code won't be released to the public to prevent copycats (who aren't after innovation, but just want to make a quick buck) from copying and releasing the project with little to no change. But don't worry, the gameplay is quite awesome, unique and innovative :) 
+Until launch, the full gameplay information and source code will remain private to prevent copycats (who aren't after innovation, but just want to make a quick buck) from copying and releasing the project with little to no change. But don't worry, the gameplay is quite awesome, unique and innovative :) 
 
 ### Will the game be free to play?
 A free to play model is too exploitable (players can make infinite accounts to get infinite resources). In Hereos, players are required to buy at least 1 hero, after that the game can be played for free forever if desired. Players are required to "buy" RAM storage for their inventory, but a player can sell all items, unregister from the game and sell the unused RAM storage space to get the money refunded (which makes inventory storage effectively free or even profitable in case the RAM price has increased because of scarcity).
