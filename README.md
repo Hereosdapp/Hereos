@@ -3,7 +3,7 @@
 - Game being developed on the EOSIO smart contract platform.
 - No ICO (in fact, the project doesn't even use a token and nobody can invest in founder items before the product is completed).
 - Completely decentralized (no central website required, no data stored outside the blockchain).
-- One time auction of **very limited** founder items which will generate a lifetime passive income for a few lucky winners.
+- One time auction of **very limited** founder items which will generate a lifetime passive income for a few lucky winners (**there is no guarantee that the passive income will outweigh your investment**).
 
 ## Gameplay details:
 - Strategic PvP battles (with billions of possible strategies) over scarce resources.
