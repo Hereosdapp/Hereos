@@ -19,6 +19,9 @@
 - Launch estimated July 2018.
 
 ## Pre-launch FAQ:
+### What strategic elements are in the game?
+Each time a player wants to attack or defend, the player has to assemble a squad of 6 unique heroes. Each hero has billions of combinations between the class, targeting strategy, primary attack and the special abilities (50+ abilities total available divided in offensive, defense and utility categories). If you create or join an alliance, you can also coordinate attacks and defends together to improve or maintain your bonus. Bonusses are shared between alliances, so it's highly recommended to make friends.
+
 ### Will the game be free to play?
 A free to play model is too exploitable (players can make infinite accounts to get infinite resources). In Hereos, players are required to buy at least 1 hero, after that the game can be played for free forever if desired. Players are required to "buy" RAM storage for their inventory, but a player can sell all items, unregister from the game and sell the unused RAM storage space to get the money refunded (which makes inventory storage effectively free or even profitable in case the RAM price has increased because of scarcity).
 
@@ -27,9 +30,6 @@ Buying heroes doesn't give you any combat advantage, it only expands the amount 
 
 ### How will you make money?
 Whenever a player buys a hero, 50% of the money goes to me and the other 50% commission will be split among the founders based on the prices they individually set (founders can withdraw commission once per 24 hours to prevent blockchain bloat). When a player buys an item on the market, they pay a 1% fee. I can change both settings whenever I want after the game is live. Whenever I plan to change game settings, it will be announced at least 24 hour in advance to give people some time to prepare if needed.
-
-### What strategic elements are in the game?
-Each time a player wants to attack or defend, the player has to assemble a squad of 6 unique heroes. Each hero has billions of combinations between the class, targeting strategy, primary attack and the special abilities (50+ abilities total available divided in offensive, defense and utility categories). If you create or join an alliance, you can also coordinate attacks and defends together to improve or maintain your bonus. Bonusses are shared between alliances, so it's highly recommended to make friends.
 
 ### What will you do about bots?
 It's impossible to block bots. The game is designed so that items can only come into existence after real money has been paid somewhere. After that, the players can use their virtual resources however they please. Due to the billions of possible strategies and an ever changing meta, it remains to be seen if a bot can perform as well as a skilled player.
