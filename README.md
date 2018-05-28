@@ -3,7 +3,7 @@
 - Game being developed on the EOSIO smart contract platform.
 - No ICO (in fact, the project doesn't even use a token and nobody can invest in founder items before the product is completed).
 - Completely decentralized (no central website required, no data stored outside the blockchain).
-- One time auction of **very limited** founder items which will generate lifetime commission on heroes purchased by players which require your founder item (**there is no guarantee that the passive income will outweigh your investment**). Founder items will also be tradable on the open market.
+- One time auction of **very limited** founder items. Owners of founder items will receive lifetime commission on player's hero purchases which require the DNA of your founder item. **there is no guarantee that the passive income will outweigh your investment**. Founder items will also be tradable on the open market.
 
 ## Gameplay details:
 - Strategic PvP battles (with billions of possible strategies) over scarce resources.
