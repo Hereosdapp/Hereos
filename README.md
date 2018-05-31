@@ -30,7 +30,7 @@ Buying heroes doesn't give you any combat advantage, it only expands the amount 
 
 ### How can players make money?
 1. Purchase founder items (very limited supply, huge ROI potential)
-1. Purchase alliance ownership (unlimited supply, the more skilled you are as a leader, the more you will profit)
+1. Purchase alliance ownership (unlimited supply, the more skilled you are as a leader, the higher the chance that you will profit)
 1. Item trading
 1. Sell your heroes (the more skilled you are, the higher "quality" heroes you will create)
 
