@@ -18,7 +18,7 @@
 - Presale auction of **very limited** founder items before launch (duration TBD).
 - Launch estimated July 2018.
 
-## Development FAQ:
+## Pre-alpha FAQ:
 ### Where can I find detailed information about the gameplay?
 Until launch, the full gameplay information and source code will remain private to prevent copycats (who aren't after innovation, but just want to make a quick buck) from copying and releasing the project with little to no change. But don't worry, the gameplay is quite awesome, unique and innovative :) 
 
